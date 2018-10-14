@@ -11,3 +11,4 @@ ambergambit | Offensive Defense Network Appliance | https://github.com/RoomTempe
 ceruleandiva | CLI text-to-speech notification synthesizer | https://github.com/RoomTemperatureIQ/ceruleandiva  
 indigonetwork | ChainLink Node Environment Configuration | https://github.com/RoomTemperatureIQ/indigonetwork  
 sapphirepinion | SteamOS Hardware-Accelerated VNC Server | https://github.com/RoomTemperatureIQ/sapphirepinion  
+hex5d0 | black project | https://git.rekt.biz/
